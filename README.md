@@ -2,7 +2,7 @@
 
 > 🛠️ **Advanced utility for Valorant. Improve your gameplay with custom overlays and assist features.**
 
-![GUI](screen.png)
+![GUI](screen.jpg)
 
 ---
 
